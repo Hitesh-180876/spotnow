@@ -1,0 +1,5 @@
+/* running spring boot application on specific port */
+
+
+-->< run this command on terminal --><
+mvn spring-boot:run -Dspring-boot.run.arguments=--server.port=8090
